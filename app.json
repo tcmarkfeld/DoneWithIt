@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A marketplace for stuff you don't need anymore",
+    "githubUrl": "https://github.com/tcmarkfeld/DoneWithIt"
   }
 }
