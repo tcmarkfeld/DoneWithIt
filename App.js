@@ -9,7 +9,7 @@ export default function App() {
       <StatusBar style="auto" />
     </View>
   );
-}
+} // Hello
 
 const styles = StyleSheet.create({
   container: {
